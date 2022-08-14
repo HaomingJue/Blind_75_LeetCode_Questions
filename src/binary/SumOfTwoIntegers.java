@@ -1,2 +1,5 @@
-package binary;public class SumOfTwoIntegers {
+package binary;
+
+public class SumOfTwoIntegers {
+
 }
