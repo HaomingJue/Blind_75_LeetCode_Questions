@@ -9,7 +9,7 @@ public class ImplementTrie {
         boolean isEnd = false;
     }
 
-    public Trie() {
+    public ImplementTrie() {
         this.root = new TrieNode();
     }
 
